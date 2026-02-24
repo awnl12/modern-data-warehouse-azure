@@ -8,7 +8,7 @@ Este proyecto simula un escenario real del sector de telecomunicaciones implemen
 * **Almacenamiento Big Data:** Azure Data Lake Storage Gen2 (ADLS Gen2).
 * **Orquestación y Movimiento:** Azure Data Factory (ADF).
 * **Almacenamiento Relacional:** Azure SQL Database.
-* **Consumo y BI:** Power BI Desktop (Data Modeling & DAX).
+* **Consumo y BI:** Power BI Desktop.
 
 ## ☁️ Infraestructura en la Nube
 Para este proyecto se provisionó un grupo de recursos (`rg-medallon`) que centraliza los servicios administrados (PaaS) de orquestación, almacenamiento estructurado y no estructurado:
