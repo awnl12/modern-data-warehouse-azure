@@ -1,6 +1,6 @@
 
 DATA/
-
+DataSetCleaned/
 -
 __pycache__/
 *.py[cod]
