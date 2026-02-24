@@ -2,6 +2,7 @@
 
 ## 📌 Descripción del Proyecto
 Este proyecto simula un escenario real del sector de telecomunicaciones implementando un **Modern Data Warehouse** en Azure bajo una **Arquitectura Medallón**. El objetivo principal fue construir un pipeline de datos (ETL) automatizado que procese información cruda de clientes, aplique reglas de limpieza y seguridad (anonimización), y disponibilice los datos en un modelo dimensional para descubrir patrones de abandono (Churn) a través de inteligencia de negocios.
+Para el proyecto se uso un Dataset Publico -> https://www.kaggle.com/datasets/blastchar/telco-customer-churn (FUENTE)
 
 ## 🛠️ Stack Tecnológico
 * **Procesamiento y ETL:** Python (Pandas, Hashlib) ejecutado en Visual Studio Code.
