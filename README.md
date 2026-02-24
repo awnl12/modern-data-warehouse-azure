@@ -65,3 +65,6 @@ Se conectó un modelo semántico en Power BI mediante importación directa desde
 * **Impacto Financiero:** Demostración gráfica de que los contratos "Mes a mes" y los pagos vía "Cheque electrónico" concentran el mayor riesgo de fuga de capital de la compañía.
 
 > <img width="1428" height="675" alt="Dashboard-PowerBi" src="https://github.com/user-attachments/assets/ac43f8c5-cb2d-48ac-bd15-433ce3e1c305" />
+
+LINK DEL DASHBOARD INTERACTIVO
+- https://app.fabric.microsoft.com/view?r=eyJrIjoiNmNmZWQ3OTgtMTJhZi00MWVmLWJkNTEtODFlZDY3YTM0OTg3IiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9
